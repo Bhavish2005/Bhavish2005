@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **HealthCare Website Powered by AI**
 
-- 🌱 I’m currently learning **Machine and Deep Learning**
+- 🌱 I’m currently learning **Object detection ,Computer Vision and Generative AI**
 
 - 💬 Ask me about **Data Structure and Algorithm ,React, JavaScript,C++**
 

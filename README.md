@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhavish Pushkarna</h1>
 <h3 align="center">A passionate Full Stack Developer and ML/AI Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pjYXFveGVqdTk2dmxwYWFpcmVzMWc3MzFzN2FtZXc1b3ZhZmk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif">
-- 🔭 I’m currently working on **Realtime Collabrative Code Editor**
+- 🔭 I’m currently working on **Quiver-(Rootless, Deamonless Containerization APP)**
 
-- 🌱 I’m currently learning **Object detection ,Computer Vision and Generative AI**
+- 🌱 I’m currently learning **QT6 DESKTOP APP DEVELOPMENT**
 
 - 💬 Ask me about **Data Structure and Algorithm ,React, JavaScript,C++**
 

@@ -86,8 +86,8 @@
 <h3> Tech Stack</h3>
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,opencv,git,postman" height="48" alt="Tech Stack"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="48" style="margin-left: 5px; background-color: white; border-radius: 10px; padding: 2px;" alt="Qt Logo"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,opencv,git" height="48" alt="Tech Stack"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="48" width="50"style="margin-left: 5px; background-color: white; border-radius: 10px; padding: 2px;" alt="Qt Logo"/>
 </p>
 
 </div>

@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Bhavish Pushkarna</h1>
-<h3 align="center">A passionate Full Stack Developer and ML/AI Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pjYXFveGVqdTk2dmxwYWFpcmVzMWc3MzFzN2FtZXc1b3ZhZmk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif">
+<div align="center">
 
-- 🔭 I’m currently working on **QUIVER - ROOTLESS, DAEMONLESS CONTAINERIZATION APP**
+<h1>Hi, I'm Bhavish Pushkarna 👋</h1>
 
-- 🌱 I’m currently learning **QT6 DESKTOP APP DEVELOPMENT**
+<p>
+<b>Full Stack Developer</b> • <b>Machine Learning & Artificial Intelligence Enthusiast</b> • <b>Systems Enthusiast</b>
+</p>
 
-- 💬 Ask me about **Data Structure and Algorithm ,React, JavaScript,C++**
+<br/>
 
-- 📫 How to reach me **bhavish.pushkarna2005@gmail.com**
+<table width="90%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="40%" align="center" valign="top" style="border: none;">
+<br/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pjYXFveGVqdTk2dmxwYWFpcmVzMWc3MzFzN2FtZXc1b3ZhZmk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif" width="250" style="border-radius: 10px;"/>
+<br/><br/>
+<p>
+<a href="https://linkedin.com/in/bhavish-pushkarna">
+<img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/bhavish_06_09">
+<img src="https://skillicons.dev/icons?i=twitter" height="36" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/pushkarnabhavish">
+<img src="https://skillicons.dev/icons?i=instagram" height="36" alt="Instagram"/>
+</a>
+<a href="mailto:bhavish.pushkarna2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/>
+</a>
+</p>
+</td>
 
-<h3 align="left">Connect with me:</h3>
+<td width="60%" valign="top" style="border: none;">
+<h3 align="center">Engineering Focus</h3>
+
 <p align="left">
-<a href="https://twitter.com/bhavish_06_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavish_06_09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhavish pushkarna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavish pushkarna" height="30" width="40" /></a>
-<a href="https://instagram.com/pushkarnabhavish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pushkarnabhavish" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Bhavish_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhavish_19" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhavishpush8dvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhavishpush8dvm" height="30" width="40" /></a>
+<b>Current Project</b><br/>
+<i>Building QUIVER: A rootless, daemonless containerization engine focused on security, efficiency, and system-level control.</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- <p align="left">
+<b>Qt6 Desktop Systems</b><br/>
+<i>Designing high-performance, cross-platform applications using modern C++.</i>
+</p> -->
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Bhavish_2005?ext=heatmap" alt="LeetCode Stats Card" />
+<p align="left">
+<b>Full Stack Web Development</b><br/>
+<i>Building dynamic, real-time web applications using the MERN stack, Tailwind CSS, Socket.io, and Framer Motion.</i>
 </p>
+
+<p align="left">
+<b>Scalable Architectures</b><br/>
+<i>Writing clean, modular, and production-ready software.</i>
+</p>
+
+<p align="left">
+<b>Competitive Problem Solving</b><br/>
+<i>Strong algorithmic thinking with a system design perspective in C++.</i>
+</p>
+<p>
+  <i> </i>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="90%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="50%" align="center" style="border: none;">
+<img src="https://streak-stats.demolab.com?user=Bhavish2005&theme=tokyonight&hide_border=true&border_radius=10" height="250" alt="GitHub Streak"/>
+</td>
+<td width="50%" align="center" style="border: none;">
+<img src="https://leetcard.jacoblin.cool/Bhavish_2005?&ext=heatmap&hide_border=true&border_radius=10" height="230" alt="LeetCode Stats"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavish2005&theme=tokyo-night&hide_border=true&radius=10" width="90%" alt="GitHub Activity Graph"/>
+
+<br/><br/>
+
+<h3> Tech Stack</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,express,mongodb,mysql,tailwind,tensorflow,opencv,git,postman" height="48" alt="Tech Stack"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" height="48" style="margin-left: 5px; background-color: white; border-radius: 10px; padding: 2px;" alt="Qt Logo"/>
+</p>
+
+</div>

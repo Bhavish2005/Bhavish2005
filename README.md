@@ -15,7 +15,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3pjYXFveGVqdTk2dmxwYWFpcmVzMWc3MzFzN2FtZXc1b3ZhZmk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jqy5D7DFs0i5EPkWfV/giphy.gif" width="250" style="border-radius: 10px;"/>
 <br/><br/>
 <p>
-<a href="https://linkedin.com/in/bhavish-pushkarna">
+<a href="https://www.linkedin.com/in/bhavish-pushkarna-52715429a/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/bhavish_06_09">

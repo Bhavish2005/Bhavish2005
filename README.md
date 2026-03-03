@@ -35,7 +35,7 @@
 
 <p align="left">
 <b>Current Project</b><br/>
-<i>Building QUIVER: A rootless, daemonless containerization engine focused on security, efficiency, and system-level control.</i>
+<i>Building Quiver: A rootless, daemonless containerization engine focused on security, efficiency, and system-level control.</i>
 </p>
 
 <!-- <p align="left">
@@ -45,7 +45,7 @@
 
 <p align="left">
 <b>Full Stack Web Development</b><br/>
-<i>Building dynamic, real-time web applications using the MERN stack, Tailwind CSS, Socket.io, and Framer Motion.</i>
+<i>Building dynamic, real-time web applications using the Spring Boot , React , Node.js, Tailwind CSS, Socket.io.</i>
 </p>
 
 <p align="left">

@@ -3,7 +3,7 @@
 <h1>Hi, I'm Bhavish Pushkarna 👋</h1>
 
 <p>
-<b>Full Stack Developer</b> • <b>Machine Learning & Artificial Intelligence Enthusiast</b> • <b>Systems Enthusiast</b>
+<b>Full Stack Developer</b> • <b>Artificial Intelligence Enthusiast</b> • <b>Systems Enthusiast</b>
 </p>
 
 <br/>
